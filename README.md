@@ -39,3 +39,6 @@ Examined the structure of the dataset (number of rows, columns, and data types).
 Identified potential missing values (zero values in some features like Insulin and Blood Pressure).
 
 Data Visualization
+
+Reason for Choosing This Dataset
+I chose this dataset because diabetes runs in my family, and I have already been diagnosed as being in the prediabetic stage. Given this personal connection, I wanted to gain a deeper understanding of diabetes-related factors and explore how different health metrics contribute to the risk of developing diabetes. By analyzing this dataset, I aim to identify key indicators that influence diabetes onset and progression, which may help in making informed lifestyle adjustments and promoting early prevention strategies.
